@@ -1,0 +1,15 @@
+@import 'vars/sizes';
+@import 'vars/breakpoints';
+@import 'vars/colors';
+@import 'vars/font';
+
+@import 'mixins/breakpoint';
+@import 'mixins/container';
+
+@import 'base/normalize';
+@import 'base/page';
+@import 'base/typography';
+
+@import '../../components/Footer/footer';
+@import '../../components/SocialMedia/social-media';
+@import '../../components/Copyright/copyright';
